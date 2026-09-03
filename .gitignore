@@ -1,0 +1,15 @@
+.idea/
+.agy/
+.opencode/
+.freebuff/
+
+.DS_Store
+_MACOSX/
+
+# vibe coder filez
+reference/
+instructions.markdown
+
+# raw .af file
+assets/do_not_touch_or_look_at_this_this_is_assets_raw_file.af
+assets/do_not_touch_or_look_at_this_this_is_assets_raw_file.af~lock~
